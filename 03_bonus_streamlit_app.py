@@ -1,4 +1,4 @@
-# Keyrus Example. Copyright applies only if shared by Keyrus.
+# © Keyrus. This material is shared for reference purposes only and may not be modified or used for commercial purposes.
 import streamlit as st
 import pandas as pd
 import time
